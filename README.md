@@ -1,2 +1,2 @@
 # maisPraTI
-Desenvolvimento de atividades do curso Full Stack Developer da +praTI
+FormaçãoDesenvolvedor Full Stack Júnior da /codifica e +praTI
